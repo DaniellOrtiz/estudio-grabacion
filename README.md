@@ -1,5 +1,5 @@
 Estudio de Grabación Musical
-Autor: Daniel Ortiz Caraballo
+Daniel Ortiz Caraballo
 
 DESCRIPCIÓN
 
